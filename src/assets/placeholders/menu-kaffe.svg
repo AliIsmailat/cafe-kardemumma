@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7A5238" />
+      <stop offset="1" stop-color="#D2AE86" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#g)" />
+  <circle cx="600" cy="640" r="280" fill="#FBF6EE" opacity="0.35" />
+  <circle cx="600" cy="640" r="170" fill="#4A2F20" opacity="0.5" />
+  <text x="600" y="1000" text-anchor="middle" font-family="sans-serif" font-size="46" fill="#FBF6EE">Platshållare</text>
+  <text x="600" y="1060" text-anchor="middle" font-family="sans-serif" font-size="34" fill="#FBF6EE">menu-kaffe.jpg</text>
+</svg>
